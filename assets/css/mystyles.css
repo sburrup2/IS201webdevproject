@@ -1,0 +1,78 @@
+ /*mystyle.css*/
+ 
+ .h1 {
+    color: navy;
+    margin-left: 20px;
+  
+  }
+background
+  
+  .subheading{
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+  body {
+    background-color: lightblue;
+  }
+.myTitle {
+  font-family: 'Chivo Mono', monospace;
+}
+.myTitle {
+  color:blueviolet;
+}
+body {
+  background-color: #fefbd8;
+}
+
+h1 {
+  background-color: #80ced6;
+}
+
+div {
+  background-color: #d5f4e6;
+}
+
+span {
+  background-color: #f18973;
+
+}
+.id{
+  font-family: papyrus;
+}
+body {
+  background-color: rgb(216, 139, 231);
+}
+.X{
+  font-family:monospace
+}
+.Y{
+  font-family: Arial, Helvetica, sans-serif
+}
+.Z{
+  font-family: cursive
+}
+.POP{
+  color: blue;
+}
+.A{
+  font-family:courier;
+}
+.POP{
+  font-size: 200%;
+}
+div.static {
+  position: static;
+  border: 3px solid #2198ad;
+}
+div.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #087077;
+}
+div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #2650c4;
+}
